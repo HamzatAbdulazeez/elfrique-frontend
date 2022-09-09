@@ -683,4 +683,9 @@ border: 1px solid #305d21 !important;
   background-color: #3B702A;
   padding: 10px 20px 10px 20px;
 }
+.modal-dialog {
+  padding: 120px 0 0 0;
+  max-width: 80% !important;
+  margin: auto !important;
+}
 /******Modal Lastest Ends**********/
