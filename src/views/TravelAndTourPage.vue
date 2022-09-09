@@ -297,8 +297,6 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="row">
                             <div class="col-md-4"></div>
                             <div class="col-md-8">
                                 <div class="sort">
@@ -777,6 +775,7 @@
     <elfrique-footer/>
 </template>
 <style scoped src="@/assets/css/travelandtour.css"></style>
+<style scoped src="@/assets/css/dashStyle.css"></style>
 <script>
     import Header from './elfrique-header.vue'
     import Newsletter from './elfrique-newsletter.vue'
